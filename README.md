@@ -1,9 +1,10 @@
 # Final_output_DSA501
-So I have uploaded 2 outputs have a look:-
-Final_Output_Arora_Vipul.html
-and 
-Final_Output_2_Arora_Vipul.html
+So I have uploaded 2 outputs have a look :-
 
+'''Final_Output_Arora_Vipul.html
+'''and 
+'''Final_Output_2_Arora_Vipul.html
+'''
 # DataFrame Display Web App
 
 This simple application scrapes data from [Buffalo State College](https://www.buffalostate.edu/) to create a DataFrame showing the number of undergraduate classes in each department from 2015 to 2023 (excluding summers).
