@@ -54,5 +54,3 @@ This simple application scrapes data from [Buffalo State College](https://www.bu
 - Thanks to Buffalo State College for providing the data.
 
 ---
-
-Feel free to expand on this README by adding more detailed instructions, explanations, or any additional information relevant to your project!
